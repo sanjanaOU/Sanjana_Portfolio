@@ -6,7 +6,7 @@ export default function Sidebar() {
   return (
     <div>
       <div className="profile">
-        <img src="public/images/profile.png" alt="Sanjana Kalidindi" />
+        <img src="public/profile.png" alt="Sanjana Kalidindi" />
       </div>
       <div className="name">Sanjana Kalidindi</div>
       <div className="role">Software Developer</div>

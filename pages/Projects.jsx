@@ -6,40 +6,40 @@ const Projects = () => {
       title: "Datasaurus Visualization system",
       description:
         "This is an application to study how datasets with same statistical measures vary visually.",
-      image: "public/images/datasaurus.png",
+      image: "public/datasaurus.png",
       link: "https://datasaurusvizsystem.netlify.app/",
     },
     {
       title: "Visitor Analysis Dashboard",
       description:
         "Analysis of visitors to Draco National Park based on historical data.",
-      image: "public/images/visitor.png",
+      image: "public/visitor.png",
       link: "https://app.netlify.com/projects/bright-frangollo-6d9086/overview",
     },
     {
       title: "OU Chatbot",
       description: "An intelligent chatbot to explore OU campus information.",
-      image: "public/images/chatbot.png",
+      image: "public/chatbot.png",
       link: "https://github.com/sanjanaOU/OU-chatbot-frontend",
     },
     {
       title: "Heart Disease Dashboard",
       description: "A system to predict heart disease using medical data.",
-      image: "public/images/heart.png",
+      image: "public/heart.png",
       link: "https://github.com/sanjanaOU/heart-disease",
     },
     {
       title: "Invoice Analytics",
       description:
         "Retail invoice analytics dashboard across four countries.",
-      image: "public/images/invoice.png",
+      image: "public/invoice.png",
       link: "https://github.com/sanjanaOU/InvoiceAnalyticsDashboard",
     },
     {
       title: "Air Quality Explorer",
       description:
         "Interactive dashboard for pollutant comparison in Italy.",
-      image: "public/images/airpollution.png",
+      image: "public/airpollution.png",
       link: "https://air-dashboard-updated.vercel.app/",
     },
   ];
